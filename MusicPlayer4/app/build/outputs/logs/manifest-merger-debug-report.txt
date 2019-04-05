@@ -1,0 +1,158 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Tec\ISemestre2019\DesarrollodeAplicacionesMoviles\Labs\MusicPlayer4\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\Tec\ISemestre2019\DesarrollodeAplicacionesMoviles\Labs\MusicPlayer4\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\Tec\ISemestre2019\DesarrollodeAplicacionesMoviles\Labs\MusicPlayer4\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\Tec\ISemestre2019\DesarrollodeAplicacionesMoviles\Labs\MusicPlayer4\app\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\9e66692dbe49038e834dea5266d50d0a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\27576374c6c4746e9f49b8596b7e1a1f\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\06453dc4baedeff41164cf435d5abcba\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\68af2d488c2dec161c3b4fd0390408bb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\f57618b720319bc619bfecdd9b9c21ff\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\d093babbc6e40722a9c73242d307b117\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\b7b52608270574e7e820bea814e2e58a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\94781dae7018d71dbe51e500c458b11a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\4c2ab994b71e36b9a18e6563a2604caa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\4d6e917eb2e40974fd7619db7d44dea3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\a297a64aa3413c524695d1dcb726d29c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\9bba5833e7c96e23d150c11159c0fad5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\89607e41a59250fce6b5dad4504728f7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\17fb127825e637791b751f9a04bcf781\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\212bde1bb69bffd53a99798f87d4a54b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\634425ab0536ba72298b8d71210cfaa7\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\d447a2efa9b1a0bd9885bfd8ff2f964c\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\4c2b6613a678a152c5b24717cc210039\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d0192cff4230768eb46441778d21d7ff\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\a90286625d8107f2d38137aa2a8e405a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\8d035a28a361b068f11b82ea808213d6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\150fd5404ffdf80094ad5e98f0b48644\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\62dd5c716c5056e64bb39cdf006193b1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\1c9957359e8916f159f719f16ce4763e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\350cb8dda2361a822fe8d7885d19ec66\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c3629b5e1bc133a63af4a3dfe99ee1d3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\179b57698de35722ee15333e9b360616\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Tec\ISemestre2019\DesarrollodeAplicacionesMoviles\Labs\MusicPlayer4\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\Tec\ISemestre2019\DesarrollodeAplicacionesMoviles\Labs\MusicPlayer4\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\Tec\ISemestre2019\DesarrollodeAplicacionesMoviles\Labs\MusicPlayer4\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from D:\Tec\ISemestre2019\DesarrollodeAplicacionesMoviles\Labs\MusicPlayer4\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from D:\Tec\ISemestre2019\DesarrollodeAplicacionesMoviles\Labs\MusicPlayer4\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Tec\ISemestre2019\DesarrollodeAplicacionesMoviles\Labs\MusicPlayer4\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Tec\ISemestre2019\DesarrollodeAplicacionesMoviles\Labs\MusicPlayer4\app\src\main\AndroidManifest.xml
+		ADDED from D:\Tec\ISemestre2019\DesarrollodeAplicacionesMoviles\Labs\MusicPlayer4\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from D:\Tec\ISemestre2019\DesarrollodeAplicacionesMoviles\Labs\MusicPlayer4\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Tec\ISemestre2019\DesarrollodeAplicacionesMoviles\Labs\MusicPlayer4\app\src\main\AndroidManifest.xml
+		ADDED from D:\Tec\ISemestre2019\DesarrollodeAplicacionesMoviles\Labs\MusicPlayer4\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from D:\Tec\ISemestre2019\DesarrollodeAplicacionesMoviles\Labs\MusicPlayer4\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Tec\ISemestre2019\DesarrollodeAplicacionesMoviles\Labs\MusicPlayer4\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\Tec\ISemestre2019\DesarrollodeAplicacionesMoviles\Labs\MusicPlayer4\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\27576374c6c4746e9f49b8596b7e1a1f\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\27576374c6c4746e9f49b8596b7e1a1f\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\634425ab0536ba72298b8d71210cfaa7\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\634425ab0536ba72298b8d71210cfaa7\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\d447a2efa9b1a0bd9885bfd8ff2f964c\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\d447a2efa9b1a0bd9885bfd8ff2f964c\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\634425ab0536ba72298b8d71210cfaa7\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\Tec\ISemestre2019\DesarrollodeAplicacionesMoviles\Labs\MusicPlayer4\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\Tec\ISemestre2019\DesarrollodeAplicacionesMoviles\Labs\MusicPlayer4\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\Tec\ISemestre2019\DesarrollodeAplicacionesMoviles\Labs\MusicPlayer4\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from D:\Tec\ISemestre2019\DesarrollodeAplicacionesMoviles\Labs\MusicPlayer4\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\Tec\ISemestre2019\DesarrollodeAplicacionesMoviles\Labs\MusicPlayer4\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\Tec\ISemestre2019\DesarrollodeAplicacionesMoviles\Labs\MusicPlayer4\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.musicplayer4.MainActivity
+ADDED from D:\Tec\ISemestre2019\DesarrollodeAplicacionesMoviles\Labs\MusicPlayer4\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from D:\Tec\ISemestre2019\DesarrollodeAplicacionesMoviles\Labs\MusicPlayer4\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Tec\ISemestre2019\DesarrollodeAplicacionesMoviles\Labs\MusicPlayer4\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\Tec\ISemestre2019\DesarrollodeAplicacionesMoviles\Labs\MusicPlayer4\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\Tec\ISemestre2019\DesarrollodeAplicacionesMoviles\Labs\MusicPlayer4\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Tec\ISemestre2019\DesarrollodeAplicacionesMoviles\Labs\MusicPlayer4\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from D:\Tec\ISemestre2019\DesarrollodeAplicacionesMoviles\Labs\MusicPlayer4\app\src\main\AndroidManifest.xml:16:27-74
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\Tec\ISemestre2019\DesarrollodeAplicacionesMoviles\Labs\MusicPlayer4\app\src\main\AndroidManifest.xml:21:5-80
+	android:name
+		ADDED from D:\Tec\ISemestre2019\DesarrollodeAplicacionesMoviles\Labs\MusicPlayer4\app\src\main\AndroidManifest.xml:21:22-77
+uses-sdk
+INJECTED from D:\Tec\ISemestre2019\DesarrollodeAplicacionesMoviles\Labs\MusicPlayer4\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Tec\ISemestre2019\DesarrollodeAplicacionesMoviles\Labs\MusicPlayer4\app\src\main\AndroidManifest.xml
+INJECTED from D:\Tec\ISemestre2019\DesarrollodeAplicacionesMoviles\Labs\MusicPlayer4\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\9e66692dbe49038e834dea5266d50d0a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\9e66692dbe49038e834dea5266d50d0a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\27576374c6c4746e9f49b8596b7e1a1f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\27576374c6c4746e9f49b8596b7e1a1f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\06453dc4baedeff41164cf435d5abcba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\06453dc4baedeff41164cf435d5abcba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\68af2d488c2dec161c3b4fd0390408bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\68af2d488c2dec161c3b4fd0390408bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\f57618b720319bc619bfecdd9b9c21ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\f57618b720319bc619bfecdd9b9c21ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\d093babbc6e40722a9c73242d307b117\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\d093babbc6e40722a9c73242d307b117\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\b7b52608270574e7e820bea814e2e58a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\b7b52608270574e7e820bea814e2e58a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\94781dae7018d71dbe51e500c458b11a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\94781dae7018d71dbe51e500c458b11a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\4c2ab994b71e36b9a18e6563a2604caa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\4c2ab994b71e36b9a18e6563a2604caa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\4d6e917eb2e40974fd7619db7d44dea3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\4d6e917eb2e40974fd7619db7d44dea3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\a297a64aa3413c524695d1dcb726d29c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\a297a64aa3413c524695d1dcb726d29c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\9bba5833e7c96e23d150c11159c0fad5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\9bba5833e7c96e23d150c11159c0fad5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\89607e41a59250fce6b5dad4504728f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\89607e41a59250fce6b5dad4504728f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\17fb127825e637791b751f9a04bcf781\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\17fb127825e637791b751f9a04bcf781\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\212bde1bb69bffd53a99798f87d4a54b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\212bde1bb69bffd53a99798f87d4a54b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\634425ab0536ba72298b8d71210cfaa7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\634425ab0536ba72298b8d71210cfaa7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\d447a2efa9b1a0bd9885bfd8ff2f964c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\d447a2efa9b1a0bd9885bfd8ff2f964c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\4c2b6613a678a152c5b24717cc210039\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\4c2b6613a678a152c5b24717cc210039\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d0192cff4230768eb46441778d21d7ff\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d0192cff4230768eb46441778d21d7ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\a90286625d8107f2d38137aa2a8e405a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\a90286625d8107f2d38137aa2a8e405a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\8d035a28a361b068f11b82ea808213d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\8d035a28a361b068f11b82ea808213d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\150fd5404ffdf80094ad5e98f0b48644\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\150fd5404ffdf80094ad5e98f0b48644\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\62dd5c716c5056e64bb39cdf006193b1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\62dd5c716c5056e64bb39cdf006193b1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\1c9957359e8916f159f719f16ce4763e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\1c9957359e8916f159f719f16ce4763e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\350cb8dda2361a822fe8d7885d19ec66\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\350cb8dda2361a822fe8d7885d19ec66\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c3629b5e1bc133a63af4a3dfe99ee1d3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c3629b5e1bc133a63af4a3dfe99ee1d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\179b57698de35722ee15333e9b360616\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\josev\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\179b57698de35722ee15333e9b360616\AndroidManifest.xml:20:5-44
+INJECTED from D:\Tec\ISemestre2019\DesarrollodeAplicacionesMoviles\Labs\MusicPlayer4\app\src\main\AndroidManifest.xml
+INJECTED from D:\Tec\ISemestre2019\DesarrollodeAplicacionesMoviles\Labs\MusicPlayer4\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Tec\ISemestre2019\DesarrollodeAplicacionesMoviles\Labs\MusicPlayer4\app\src\main\AndroidManifest.xml
+		ADDED from D:\Tec\ISemestre2019\DesarrollodeAplicacionesMoviles\Labs\MusicPlayer4\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Tec\ISemestre2019\DesarrollodeAplicacionesMoviles\Labs\MusicPlayer4\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Tec\ISemestre2019\DesarrollodeAplicacionesMoviles\Labs\MusicPlayer4\app\src\main\AndroidManifest.xml
+		ADDED from D:\Tec\ISemestre2019\DesarrollodeAplicacionesMoviles\Labs\MusicPlayer4\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Tec\ISemestre2019\DesarrollodeAplicacionesMoviles\Labs\MusicPlayer4\app\src\main\AndroidManifest.xml
